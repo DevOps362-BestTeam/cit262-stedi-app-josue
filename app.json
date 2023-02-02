@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "STEDI App",
+    "slug": "stedi-app",
+    "extra": {
+      "eas": {
+        "projectId": "76509666-d683-40c0-bc4d-29c0aecc9ea8"
+      }
+    },
+    "ios": {},
+    "android": {
+      "package": "com.jojoavila.stediapp"
+    }
+  }
+}
